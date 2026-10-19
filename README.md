@@ -1,8 +1,11 @@
 # Bangladesh Fish Production Statistics, 1983-84 to 2024-25: Summary Tables and Harmonized Data
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23466909.svg)](https://doi.org/10.5281/zenodo.23466909)
+
 National, waterbody-wise, species-wise and district-wise fish production of Bangladesh, compiled from **23 Department of Fisheries yearbooks** (2002-03 to 2024-25), with the national series back to **1983-84**.
 
 **Compiled by:** Md Siful Islam Rabbi, Noakhali Science and Technology University, Noakhali-3814, Bangladesh
+
 **Version:** 1.0 (October 2026) · **License:** [CC BY 4.0](LICENSE)
 
 > Not an official publication of the Department of Fisheries (DoF), Bangladesh. All figures come from DoF yearbooks.
@@ -27,8 +30,7 @@ National, waterbody-wise, species-wise and district-wise fish production of Bang
 Unit: metric tonnes. Years are Bangladesh fiscal years (July-June), e.g. 2024-25 = July 2024 to June 2025.
 
 ## How to cite
-
-Md Siful Islam Rabbi (2026). *Bangladesh Fish Production Statistics, 1983-84 to 2024-25: Summary Tables and Harmonized Data* (Version 1.0) [Data set]. Zenodo.
+Rabbi, M. S. I. (2026). *Bangladesh fish production statistics, 1983-84 to 2024-25: Summary tables and harmonized data* (Version 1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23466909
 
 Please also cite the Department of Fisheries yearbooks (list in `volume2/csv/sources.csv`).
 
