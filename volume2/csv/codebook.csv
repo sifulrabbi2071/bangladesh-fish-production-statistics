@@ -1,0 +1,47 @@
+table,column,description
+sector_production,fiscal_year,"Bangladesh fiscal year, July to June (e.g. 2024-25 = July 2024 - June 2025)"
+sector_production,sector,Fishery sector (harmonized name)
+sector_production,system,capture / culture / marine
+sector_production,production_t,Production in metric tonnes. In sector_production: current Department of Fisheries series (latest revision)
+sector_production,production_as_published_t,"Production as first published in that year's own yearbook (differs from production_t only for 2005-06 to 2008-09 and 2011-12; see flags I27, I40)"
+sector_production,water_area_ha,"Water area in hectares, as printed in that year's yearbook"
+sector_production,sector_original,Sector name exactly as printed
+sector_production,source,Yearbook ID (see sources)
+sector_production,source_table,Table in that yearbook
+sector_production,flags,Semicolon-separated note IDs (see data_issues). Blank = no known issue
+species_national,fiscal_year,"Bangladesh fiscal year, July to June (e.g. 2024-25 = July 2024 - June 2025)"
+species_national,group,"Species group (harmonized name, as reported in that year)"
+species_national,realm,inland / marine / inland and marine
+species_national,inland_t,"Inland production, tonnes"
+species_national,marine_t,"Marine production, tonnes"
+species_national,total_t,"Total production, tonnes (latest revision)"
+species_national,total_as_published_t,"Total as first published in that year's yearbook (differs only for 2012-13, flag I41)"
+species_national,group_comparable,Broader group that is comparable across all years (merges groups split out over time)
+species_national,group_original,Group name exactly as printed
+species_national,source,Yearbook ID (see sources)
+species_national,source_table,Table in that yearbook
+species_national,flags,Semicolon-separated note IDs (see data_issues). Blank = no known issue
+district_waterbody,fiscal_year,"Bangladesh fiscal year, July to June (e.g. 2024-25 = July 2024 - June 2025)"
+district_waterbody,district,"District, current official spelling"
+district_waterbody,division,"Division (2025 boundaries, applied to all years)"
+district_waterbody,waterbody,Waterbody type. 'All inland (printed district total)' = the district total printed in the yearbook
+district_waterbody,production_t,Production in metric tonnes. In sector_production: current Department of Fisheries series (latest revision)
+district_waterbody,district_original,District name exactly as printed
+district_waterbody,source,Yearbook ID (see sources)
+district_waterbody,source_table,Table in that yearbook
+district_waterbody,flags,Semicolon-separated note IDs (see data_issues). Blank = no known issue
+species_waterbody,fiscal_year,"Bangladesh fiscal year, July to June (e.g. 2024-25 = July 2024 - June 2025)"
+species_waterbody,waterbody,Waterbody type. 'All inland (printed district total)' = the district total printed in the yearbook
+species_waterbody,species_or_group,Species (from 2011-12) or species group (before 2011-12) exactly as printed
+species_waterbody,group,"Species group (harmonized name, as reported in that year)"
+species_waterbody,production_t,Production in metric tonnes. In sector_production: current Department of Fisheries series (latest revision)
+species_waterbody,source,Yearbook ID (see sources)
+species_waterbody,source_table,Table in that yearbook
+species_detail_beel_kaptai,fiscal_year,"Bangladesh fiscal year, July to June (e.g. 2024-25 = July 2024 - June 2025)"
+species_detail_beel_kaptai,waterbody,Waterbody type. 'All inland (printed district total)' = the district total printed in the yearbook
+species_detail_beel_kaptai,species_as_printed,Species name (with scientific name where printed) exactly as printed
+species_detail_beel_kaptai,production_t,Production in metric tonnes. In sector_production: current Department of Fisheries series (latest revision)
+species_detail_beel_kaptai,source,Yearbook ID (see sources)
+species_detail_beel_kaptai,source_table,Table in that yearbook
+species_detail_beel_kaptai,share_pct,"Share of that waterbody's total for the year, percent (computed)"
+species_detail_beel_kaptai,flags,Semicolon-separated note IDs (see data_issues). Blank = no known issue

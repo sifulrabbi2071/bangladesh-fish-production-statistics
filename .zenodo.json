@@ -1,0 +1,29 @@
+{
+  "upload_type": "dataset",
+  "title": "Bangladesh Fish Production Statistics, 1983-84 to 2024-25: Summary Tables and Harmonized Data",
+  "version": "1.0",
+  "creators": [
+    {
+      "name": "Rabbi, Md Siful Islam",
+      "affiliation": "Noakhali Science and Technology University, Noakhali-3814, Bangladesh"
+    }
+  ],
+  "description": "<p>National, waterbody-wise, species-wise and district-wise fish production statistics of Bangladesh, compiled from 23 Department of Fisheries yearbooks of fisheries statistics (2002-03 to 2024-25), with the national series back to 1983-84.</p><p><b>Volume 1: Summary Tables</b> (PDF, Word, Excel): yearly total, inland capture, inland culture and marine production (1983-84 to 2024-25); production by waterbody; water area and yield; production by species group (2002-03 to 2024-25); inland production by district for all 64 districts.</p><p><b>Volume 2: Detailed Data Files</b> (CSV, Excel): long-format tables with the source yearbook and table for every figure, both the latest revised and the originally published values, district-by-waterbody and species-by-waterbody tables, beel and Kaptai Lake species detail, name crosswalks, and 56 documented data notes. Every table was checked against the totals printed in the yearbooks.</p><p>Not an official publication of the Department of Fisheries, Bangladesh. Unit: metric tonnes. Years are Bangladesh fiscal years (July-June).</p>",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "Bangladesh",
+    "fisheries",
+    "fish production",
+    "aquaculture",
+    "capture fisheries",
+    "marine fisheries",
+    "inland fisheries",
+    "hilsa",
+    "district statistics",
+    "time series",
+    "Department of Fisheries",
+    "yearbook"
+  ]
+}

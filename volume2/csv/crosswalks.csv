@@ -1,0 +1,156 @@
+dimension,name_as_printed,name_in_dataset,note
+sector,River & Estuaries,River and estuary,capture
+sector,River and Estuary,River and estuary,capture
+sector,River,River and estuary,capture
+sector,Sundarbans,Sundarbans,capture
+sector,The Sundarbans,Sundarbans,capture
+sector,Sundarban,Sundarbans,capture
+sector,Beel,Beel,capture
+sector,Beel (Depression),Beel,capture
+sector,Kaptai Lake,Kaptai Lake,capture
+sector,Flood Land,Floodplain,capture
+sector,Floodplain,Floodplain,capture
+sector,Flood Plain,Floodplain,capture
+sector,Seasonal cultured water body,Seasonal culture waterbody,culture
+sector,Semi closed (Flood Plain),Seasonal culture waterbody,culture
+sector,Semi-closed water body,Seasonal culture waterbody,culture
+sector,Seasonal Cultured Waterbody,Seasonal culture waterbody,culture
+sector,Pond & Ditch,Pond,culture
+sector,Pond,Pond,culture
+sector,Baor,Baor,culture
+sector,Baor (Ox-bow Lake),Baor,culture
+sector,Shrimp Farm,Shrimp/prawn farm,culture
+sector,Shrimp/Prawn Farm,Shrimp/prawn farm,culture
+sector,Coastal Shrimp Farm,Shrimp/prawn farm,culture
+sector,Coastal Shrimp & Fish Farm,Shrimp/prawn farm,culture
+sector,Crab,Crab,culture
+sector,Pen Culture,Pen culture,culture
+sector,Cage Culture,Cage culture,culture
+sector,Industrial Fisheries (Trawl),Marine industrial (trawl),marine
+sector,Industrial (Trawl),Marine industrial (trawl),marine
+sector,Marine Industrial,Marine industrial (trawl),marine
+sector,Industrial,Marine industrial (trawl),marine
+sector,Artisanal Fisheries,Marine artisanal,marine
+sector,Artisanal,Marine artisanal,marine
+sector,Marine Artisanal,Marine artisanal,marine
+species_group,Major Carp,Major carp,long-run comparable group: Native carps (major + other)
+species_group,Other Carp,Other carp,long-run comparable group: Native carps (major + other)
+species_group,Exotic Carp,Exotic carp,long-run comparable group: Exotic carp
+species_group,Pangas,Pangas,long-run comparable group: Catfish incl. pangas
+species_group,Pangas (Cat Fish),Pangas,long-run comparable group: Catfish incl. pangas
+species_group,Pangas (Catfish),Pangas,long-run comparable group: Catfish incl. pangas
+species_group,Cat Fish,Other catfish,long-run comparable group: Catfish incl. pangas
+species_group,Other Cat Fish,Other catfish,long-run comparable group: Catfish incl. pangas
+species_group,Cat Fish (Excluding Pangas),Other catfish,long-run comparable group: Catfish incl. pangas
+species_group,Other Catfish,Other catfish,long-run comparable group: Catfish incl. pangas
+species_group,Snake Head,Snakehead,long-run comparable group: Snakehead
+species_group,Live Fish,Live fish,long-run comparable group: Live fish
+species_group,Tilapia,Tilapia,"long-run comparable group: Other inland fish incl. tilapia, sarpunti, cuchia"
+species_group,Sarpunti,Sarpunti,"long-run comparable group: Other inland fish incl. tilapia, sarpunti, cuchia"
+species_group,Cuchia,Cuchia,"long-run comparable group: Other inland fish incl. tilapia, sarpunti, cuchia"
+species_group,Other Inland fish,Other inland fish,"long-run comparable group: Other inland fish incl. tilapia, sarpunti, cuchia"
+species_group,Other Inland Fish,Other inland fish,"long-run comparable group: Other inland fish incl. tilapia, sarpunti, cuchia"
+species_group,Hilsa/Illish,Hilsa,long-run comparable group: Hilsa
+species_group,Hilsa/Ilish,Hilsa,long-run comparable group: Hilsa
+species_group,Hilsha,Hilsa,long-run comparable group: Hilsa
+species_group,Hilsa,Hilsa,long-run comparable group: Hilsa
+species_group,Shrimp,Shrimp/prawn,long-run comparable group: Shrimp/prawn
+species_group,Shrimp/Prawn,Shrimp/prawn,long-run comparable group: Shrimp/prawn
+species_group,Crab,Crab,long-run comparable group: Crab
+species_group,Sardine,Sardine,"long-run comparable group: Other marine fish incl. sardine, tuna"
+species_group,Bombay Duck,Bombay duck,long-run comparable group: Bombay duck
+species_group,Indian Salmon,Indian salmon,long-run comparable group: Indian salmon
+species_group,Pomfret,Pomfret,long-run comparable group: Pomfret
+species_group,Jew Fish,Jew fish,long-run comparable group: Jew fish
+species_group,Sea Cat Fish,Sea catfish,long-run comparable group: Sea catfish
+species_group,Sea Catfish,Sea catfish,long-run comparable group: Sea catfish
+species_group,"Sharks, Skates & Rays","Shark, skate and ray","long-run comparable group: Shark, skate and ray"
+species_group,Shark/Skate/Ray,"Shark, skate and ray","long-run comparable group: Shark, skate and ray"
+species_group,Shark/ Skate / Ray,"Shark, skate and ray","long-run comparable group: Shark, skate and ray"
+species_group,Tuna,Tuna,"long-run comparable group: Other marine fish incl. sardine, tuna"
+species_group,Other Marine Fish,Other marine fish,"long-run comparable group: Other marine fish incl. sardine, tuna"
+district,Bagerhat,Bagerhat,division (2025): Khulna
+district,Bagura,Bogura,division (2025): Rajshahi
+district,Bandarban,Bandarban,division (2025): Chattogram
+district,Barguna,Barguna,division (2025): Barishal
+district,Barisal,Barishal,division (2025): Barishal
+district,Barishal,Barishal,division (2025): Barishal
+district,Bhola,Bhola,division (2025): Barishal
+district,Bogra,Bogura,division (2025): Rajshahi
+district,Bogura,Bogura,division (2025): Rajshahi
+district,Brahmanbaria,Brahmanbaria,division (2025): Chattogram
+district,C.Nawabganj,Chapai Nawabganj,division (2025): Rajshahi
+district,Chandpur,Chandpur,division (2025): Chattogram
+district,Chapai Nawabganj,Chapai Nawabganj,division (2025): Rajshahi
+district,Chapainawabganj,Chapai Nawabganj,division (2025): Rajshahi
+district,Chattogram,Chattogram,division (2025): Chattogram
+district,Chittagong,Chattogram,division (2025): Chattogram
+district,Chuadanga,Chuadanga,division (2025): Khulna
+district,Comilla,Cumilla,division (2025): Chattogram
+district,Cox's Bazar,Cox's Bazar,division (2025): Chattogram
+district,Cox’s Bazar,Cox's Bazar,division (2025): Chattogram
+district,Cumilla,Cumilla,division (2025): Chattogram
+district,Dhaka,Dhaka,division (2025): Dhaka
+district,Dinajpur,Dinajpur,division (2025): Rangpur
+district,Faridpur,Faridpur,division (2025): Dhaka
+district,Feni,Feni,division (2025): Chattogram
+district,Gaibandha,Gaibandha,division (2025): Rangpur
+district,Gazipur,Gazipur,division (2025): Dhaka
+district,Gopalganj,Gopalganj,division (2025): Dhaka
+district,Habiganj,Habiganj,division (2025): Sylhet
+district,Jamalpur,Jamalpur,division (2025): Mymensingh
+district,Jashore,Jashore,division (2025): Khulna
+district,Jaypurhat,Joypurhat,division (2025): Rajshahi
+district,Jessore,Jashore,division (2025): Khulna
+district,Jhalokathi,Jhalokati,division (2025): Barishal
+district,Jhalokati,Jhalokati,division (2025): Barishal
+district,Jhenaidah,Jhenaidah,division (2025): Khulna
+district,Joypurhat,Joypurhat,division (2025): Rajshahi
+district,Khagrachari,Khagrachhari,division (2025): Chattogram
+district,Khagrachari .,Khagrachhari,division (2025): Chattogram
+district,Khagrachari H.T.,Khagrachhari,division (2025): Chattogram
+district,Khagrachhari,Khagrachhari,division (2025): Chattogram
+district,Khulna,Khulna,division (2025): Khulna
+district,Kishoreganj,Kishoreganj,division (2025): Dhaka
+district,Kishorganj,Kishoreganj,division (2025): Dhaka
+district,Kurigram,Kurigram,division (2025): Rangpur
+district,Kushtia,Kushtia,division (2025): Khulna
+district,Lakshmipur,Lakshmipur,division (2025): Chattogram
+district,Laksmipur,Lakshmipur,division (2025): Chattogram
+district,Lalmonirhat,Lalmonirhat,division (2025): Rangpur
+district,Madaripur,Madaripur,division (2025): Dhaka
+district,Magura,Magura,division (2025): Khulna
+district,Manikganj,Manikganj,division (2025): Dhaka
+district,Meherpur,Meherpur,division (2025): Khulna
+district,Moulvi Bazar,Moulvibazar,division (2025): Sylhet
+district,Moulvibazar,Moulvibazar,division (2025): Sylhet
+district,Munshiganj,Munshiganj,division (2025): Dhaka
+district,Mymensingh,Mymensingh,division (2025): Mymensingh
+district,Naogaon,Naogaon,division (2025): Rajshahi
+district,Narail,Narail,division (2025): Khulna
+district,Narayanganj,Narayanganj,division (2025): Dhaka
+district,Narshingdi,Narsingdi,division (2025): Dhaka
+district,Narsingdi,Narsingdi,division (2025): Dhaka
+district,Natore,Natore,division (2025): Rajshahi
+district,Nawabganj,Chapai Nawabganj,division (2025): Rajshahi
+district,Netrakona,Netrakona,division (2025): Mymensingh
+district,Nilphamari,Nilphamari,division (2025): Rangpur
+district,Noakhali,Noakhali,division (2025): Chattogram
+district,Pabna,Pabna,division (2025): Rajshahi
+district,Panchagarh,Panchagarh,division (2025): Rangpur
+district,Patuakhali,Patuakhali,division (2025): Barishal
+district,Pirojpur,Pirojpur,division (2025): Barishal
+district,Rajbari,Rajbari,division (2025): Dhaka
+district,Rajshahi,Rajshahi,division (2025): Rajshahi
+district,Rangamati,Rangamati,division (2025): Chattogram
+district,Rangamati H.T.,Rangamati,division (2025): Chattogram
+district,Rangpur,Rangpur,division (2025): Rangpur
+district,Sariatpur,Shariatpur,division (2025): Dhaka
+district,Satkhira,Satkhira,division (2025): Khulna
+district,Shariatpur,Shariatpur,division (2025): Dhaka
+district,Sherpur,Sherpur,division (2025): Mymensingh
+district,Sirajganj,Sirajganj,division (2025): Rajshahi
+district,Sunamganj,Sunamganj,division (2025): Sylhet
+district,Sylhet,Sylhet,division (2025): Sylhet
+district,Tangail,Tangail,division (2025): Dhaka
+district,Thakurgaon,Thakurgaon,division (2025): Rangpur

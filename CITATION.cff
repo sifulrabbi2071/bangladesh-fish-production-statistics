@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the Department of Fisheries yearbooks."
+type: dataset
+title: "Bangladesh Fish Production Statistics, 1983-84 to 2024-25: Summary Tables and Harmonized Data"
+version: "1.0"
+license: CC-BY-4.0
+authors:
+  - family-names: "Rabbi"
+    given-names: "Md Siful Islam"
+    affiliation: "Noakhali Science and Technology University, Noakhali-3814, Bangladesh"
+keywords:
+  - Bangladesh
+  - fisheries
+  - fish production
+  - aquaculture
+  - time series
